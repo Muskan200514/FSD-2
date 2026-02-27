@@ -1,4 +1,4 @@
-export default function Home(){
-    return <h2>Home Page</h2>;
+export default function Contact(){
+    return <h2>Contact</h2>;
 
 }
